@@ -1,0 +1,10 @@
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\bin\Debug\POO.exe
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\bin\Debug\POO.pdb
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\obj\Debug\POO.csproj.CopyComplete
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\obj\Debug\POO.exe
+C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\obj\Debug\POO.pdb
