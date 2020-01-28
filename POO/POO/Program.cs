@@ -28,6 +28,19 @@ namespace POO
             {
                 writer.Write(output);
             }
+
+
+            // Open the stream and read it back.
+            using (StreamReader sr = File.OpenText(@"C:\Users\Curso\source\repos\Desktop\Tutoria\POO\POO\Sample.txt"))
+            {
+                string s = "";
+                while ((s = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(s);
+                    Console.ReadLine();
+                }
+            }
         }
+
     }
 }
